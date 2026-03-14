@@ -11,3 +11,4 @@ https://www.canva.com/design/DAHBP-V0xz0/DVDvm1vPmalf2j9aPIUBaw/edit?utm_content
 ## Aula: Gráfico de Despesas E Fornecedores SJC
 https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despesas%20pt1.xls
 https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/image.png
+https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despesas%20pt1.xls
