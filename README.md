@@ -17,5 +17,7 @@ https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despe
 
 
 ## Aula: Resumo de Receita em SJC
-<img width="468" height="121" alt="Captura de tela 2026-04-10 204758" src="https://github.com/user-attachments/assets/f116296e-8894-4c0b-b416-af8ff4ee11c1" />
-[balancete_receita2.xls](https://github.com/user-attachments/files/26641530/balancete_receita2.xls)
+[balancete_receita2.xls](https://github.com/user-attachments/files/26641538/balancete_receita2.xls)
+
+<img width="468" height="121" alt="Captura de tela 2026-04-10 204758" src="https://github.com/user-attachments/assets/12f8924d-04e4-4cc9-b43d-2f3a52f4afaa" />
+
