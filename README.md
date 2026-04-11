@@ -21,3 +21,10 @@ https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despe
 
 <img width="468" height="121" alt="Captura de tela 2026-04-10 204758" src="https://github.com/user-attachments/assets/12f8924d-04e4-4cc9-b43d-2f3a52f4afaa" />
 
+
+
+
+
+## Aula: Analise de Dados de Estudantes
+<img width="767" height="686" alt="Captura de tela 2026-04-10 211830" src="https://github.com/user-attachments/assets/063c79e1-caf2-40dc-a260-fd7f721fc241" />
+
