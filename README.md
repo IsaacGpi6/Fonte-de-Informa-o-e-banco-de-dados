@@ -28,3 +28,8 @@ https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despe
 ## Aula: Analise de Dados de Estudantes
 <img width="767" height="686" alt="Captura de tela 2026-04-10 211830" src="https://github.com/user-attachments/assets/063c79e1-caf2-40dc-a260-fd7f721fc241" />
 
+
+
+
+## Certificado Banco de dados
+<img width="1168" height="797" alt="image" src="https://github.com/user-attachments/assets/4a78e3ab-aa8a-4370-b1ed-07a7b2982221" />
