@@ -31,5 +31,14 @@ https://github.com/IsaacGpi6/Fonte-de-Informa-o-e-banco-de-dados/blob/main/despe
 
 
 
-## Certificado Banco de dados
+## Certificado Banco de Dados
 <img width="1168" height="797" alt="image" src="https://github.com/user-attachments/assets/4a78e3ab-aa8a-4370-b1ed-07a7b2982221" />
+
+
+
+
+
+
+## Aula: Analise de Dados Abertos
+<img width="821" height="300" alt="image" src="https://github.com/user-attachments/assets/9448c6d7-330c-4014-bcbf-221be73dda60" />
+[Atividade de dados abertos.xlsx](https://github.com/user-attachments/files/26845091/Atividade.de.dados.abertos.xlsx)
