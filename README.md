@@ -3,6 +3,8 @@ Disciplina ministrada no primeiro semestre de Gestão de Produção Industrial
 ## Apresentação Em Equipe usando software de design gráfico
 https://www.canva.com/design/DAHBP-V0xz0/DVDvm1vPmalf2j9aPIUBaw/edit?utm_content=DAHBP-V0xz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+<img width="1201" height="674" alt="image" src="https://github.com/user-attachments/assets/ebde2e59-65b5-4df7-8ca0-5866f2543837" />
+
 
 
 
