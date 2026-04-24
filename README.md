@@ -48,9 +48,14 @@ Parte 2
 
 
 
-## Aula:
-
 
 ## Aula: Analise de Dados Abertos
 <img width="821" height="300" alt="image" src="https://github.com/user-attachments/assets/9448c6d7-330c-4014-bcbf-221be73dda60" />
 [Atividade de dados abertos.xlsx](https://github.com/user-attachments/files/26845091/Atividade.de.dados.abertos.xlsx)
+
+
+
+
+
+## Aula: Iniciação no PowerBI
+<img width="1286" height="598" alt="image" src="https://github.com/user-attachments/assets/5dc086b4-ee1a-4dfb-aa84-ba54a789f144" />
