@@ -59,3 +59,10 @@ Parte 2
 
 ## Aula: Iniciação no PowerBI
 <img width="1286" height="598" alt="image" src="https://github.com/user-attachments/assets/5dc086b4-ee1a-4dfb-aa84-ba54a789f144" />
+
+
+
+## Aula: Iniciação no PowerBI PT2
+<img width="872" height="565" alt="image" src="https://github.com/user-attachments/assets/94b450fc-a215-4654-b3d6-fba51cd8c1fc" />
+
+
