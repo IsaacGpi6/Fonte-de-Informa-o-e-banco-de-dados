@@ -72,8 +72,18 @@ Parte 2
 
 
 ## Aula: Trabalhos Formais no PowerBI
+| Perguntas | Respostas |
+|---------------------|-----------------------|
+|Em qual ano e mês houve o menor saldo de movimentação? e o maior? | O menor saldo foi em Abril de 2020, já o maior foi em Fevereiro de 2025 |
+|Em qual ano a média de movimentação foi maior que zero? | Todos os anos exceto 2020 |
 
-|Em qual ano e mês houve o menor saldo de movimentação? e o maior? |
-|Em qual ano a média de movimentação foi maior que zero? |
+
+
+**Dados Visuais**
+
+<img width="781" height="452" alt="image" src="https://github.com/user-attachments/assets/655310a8-51a6-4e97-8f80-bf32608fa682" />
+<img width="793" height="478" alt="image" src="https://github.com/user-attachments/assets/a95d2858-4107-4a42-af51-94c36b2966be" />
+
+
 
 
