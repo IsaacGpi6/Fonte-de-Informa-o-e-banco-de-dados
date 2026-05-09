@@ -62,7 +62,18 @@ Parte 2
 
 
 
+
 ## Aula: Iniciação no PowerBI PT2
 <img width="872" height="565" alt="image" src="https://github.com/user-attachments/assets/94b450fc-a215-4654-b3d6-fba51cd8c1fc" />
+
+
+
+
+
+
+## Aula: Trabalhos Formais no PowerBI
+
+|Em qual ano e mês houve o menor saldo de movimentação? e o maior? |
+|Em qual ano a média de movimentação foi maior que zero? |
 
 
