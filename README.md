@@ -87,3 +87,11 @@ Parte 2
 
 
 
+## Aula: Regressão Linear
+<img width="866" height="547" alt="image" src="https://github.com/user-attachments/assets/dc3a273b-3670-4f40-aa61-9299c6ef1bf4" />
+
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782023/Ice.Cream.Sales.-.temperatures.xlsx)
+
+
+
+
