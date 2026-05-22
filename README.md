@@ -94,4 +94,11 @@ Parte 2
 
 
 
+## Aula: Regressão Linear com google colab e excel
+<img width="974" height="547" alt="image" src="https://github.com/user-attachments/assets/15a8f3ee-36ef-40fd-8f19-7a07c1958479" />
+
+<img width="1587" height="409" alt="image" src="https://github.com/user-attachments/assets/7a029058-5a4e-475a-bb5f-728b9cda3bbc" />
+
+
+
 
